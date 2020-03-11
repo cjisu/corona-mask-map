@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/corona-mask-map/static/js/main.dabaad6c.chunk.js",
-    "main.js.map": "/corona-mask-map/static/js/main.dabaad6c.chunk.js.map",
+    "main.js": "/corona-mask-map/static/js/main.fcc13a7d.chunk.js",
+    "main.js.map": "/corona-mask-map/static/js/main.fcc13a7d.chunk.js.map",
     "runtime-main.js": "/corona-mask-map/static/js/runtime-main.c3a02934.js",
     "runtime-main.js.map": "/corona-mask-map/static/js/runtime-main.c3a02934.js.map",
     "static/js/2.ad77f574.chunk.js": "/corona-mask-map/static/js/2.ad77f574.chunk.js",
     "static/js/2.ad77f574.chunk.js.map": "/corona-mask-map/static/js/2.ad77f574.chunk.js.map",
     "index.html": "/corona-mask-map/index.html",
-    "precache-manifest.0543e25d46ef58aec004044a3db360cd.js": "/corona-mask-map/precache-manifest.0543e25d46ef58aec004044a3db360cd.js",
+    "precache-manifest.26cacc38c91f1e5dc0cae9511b6cf1dc.js": "/corona-mask-map/precache-manifest.26cacc38c91f1e5dc0cae9511b6cf1dc.js",
     "service-worker.js": "/corona-mask-map/service-worker.js",
     "static/js/2.ad77f574.chunk.js.LICENSE.txt": "/corona-mask-map/static/js/2.ad77f574.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c3a02934.js",
     "static/js/2.ad77f574.chunk.js",
-    "static/js/main.dabaad6c.chunk.js"
+    "static/js/main.fcc13a7d.chunk.js"
   ]
 }

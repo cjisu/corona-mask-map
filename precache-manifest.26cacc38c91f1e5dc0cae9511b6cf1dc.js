@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3af674c89881b48be5772f8233cde1b",
+    "revision": "c7fdcd85ae22b29bf718b868351cd985",
     "url": "/corona-mask-map/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/corona-mask-map/static/js/2.ad77f574.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e7cf9b15db101e65dfee",
-    "url": "/corona-mask-map/static/js/main.dabaad6c.chunk.js"
+    "revision": "a4e5fb746ee7bb3d4afb",
+    "url": "/corona-mask-map/static/js/main.fcc13a7d.chunk.js"
   },
   {
     "revision": "11d0d716d4faab155827",
